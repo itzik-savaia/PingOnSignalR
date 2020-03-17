@@ -88,7 +88,7 @@ namespace NetworkScannerBackend.Hubs
                 }
                 else
                 {
-                    ListFourthIPs.Add(this.numbers.ThirdStartIP);
+                    ListFourthIPs.Add(this.numbers.FourthStartIP);
                 }
                 //foreach//
                 foreach (var FirstIP in ListFirstIPs)
